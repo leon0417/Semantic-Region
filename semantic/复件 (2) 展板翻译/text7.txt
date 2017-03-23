@@ -1,0 +1,1 @@
+Laboratory studies the core technology of simulation and testing in ground for aerospace equipments.And four kinds of key test equipments have been developed, including a thermal vacuum test-bed, the whole machine characteristic test-bed, recovery performance test-bed, and capture lock test equipment.

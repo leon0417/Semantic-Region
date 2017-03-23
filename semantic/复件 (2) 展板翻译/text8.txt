@@ -1,0 +1,1 @@
+The robot system of pressure vessel inspection in nuclear reactor has been developed with independent intellectual property rights. We have initially proved the performance evolution and failure law of robot under extreme nuclear conditions and made breakthrough of operational reliability and performance reinforcement technology in the nuclear environment.
